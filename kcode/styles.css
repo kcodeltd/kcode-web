@@ -7,16 +7,6 @@
   --kwt-br-1: #ddd;
 }
 
-/* @media (prefers-color-scheme: dark) {
-  :root {
-    --kwt-tx-1: #bbb;
-    --kwt-tx-2: #eee;
-    --kwt-tx-3: #eee;
-    --kwt-bg-1: #000;
-    --kwt-br-1: #222;
-  }
-} */
-
 * {
   margin: 0;
   padding: 0;
